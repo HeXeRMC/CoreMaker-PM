@@ -1,0 +1,5 @@
+logs:
+  modules_loaded: true
+  namespace_registered: false
+  permissions_registered: false
+  errors: true

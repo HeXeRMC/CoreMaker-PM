@@ -1,0 +1,7 @@
+name: CoreMaker
+main: hexer\CoreMaker\Main
+version: 1.0.0
+api: 5.0.0
+author: hexer
+description: Manage your plugins as a core, with modular and recursive loading.
+depend: [DevTools]
