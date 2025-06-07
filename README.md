@@ -3,6 +3,8 @@
 **Modular plugin loader for PocketMine-MP.**  
 🌀 CoreMaker allows you to organize, group and load plugins recursively from a folder structure, managing dependencies and permissions automatically.
 
+[Video Presentation](https://youtu.be/zgKVyKvYj1o?si=GJs9Zgf92_IREHvg)
+
 ---
 
 ## ❗ Requirements
