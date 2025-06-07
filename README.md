@@ -5,6 +5,9 @@
 
 [Video Presentation](https://youtu.be/zgKVyKvYj1o?si=GJs9Zgf92_IREHvg)
 
+
+This project was developed in my spare time, mainly as a personal challenge and learning experience.
+
 ---
 
 ## ❗ Requirements
@@ -33,14 +36,14 @@
 ## 📁 Folder Structure Example
     plugin_data/
     └── CoreMaker/
-    └── plugins/
-    ├── economy/
-    │   └── EconomyAPI/
-    ├── ranks/
-    │   ├── PureChat/
-    │   └── PurePerms/
-    └── utility/
-        └── Ping/
+        └── plugins/
+            ├── economy/
+            │   └── EconomyAPI/
+            ├── ranks/
+            │   ├── PureChat/
+            │   └── PurePerms/
+            └── utility/
+                └── Ping/
 
 ---
 
